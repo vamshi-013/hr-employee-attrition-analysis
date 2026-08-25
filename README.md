@@ -4,6 +4,24 @@ This project analyzes employee attrition using an HR dataset containing informat
 
 I used Python and Pandas for data analysis, Matplotlib for visualizations, and SQLite with SQL to explore employee attrition from different perspectives.
 
+## Visualizations
+
+### Employee Attrition Overview
+
+![Employee Attrition](output/attrition_count.png)
+
+### Attrition by Department
+
+![Attrition by Department](output/attrition_by_department.png)
+
+### Attrition by Overtime
+
+![Attrition by Overtime](output/attrition_by_overtime.png)
+
+### Monthly Income by Attrition
+
+![Monthly Income by Attrition](output/income_by_attrition.png)
+
 ## What I Analyzed
 
 - Overall employee attrition
